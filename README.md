@@ -3,7 +3,7 @@ This is a tiny program that simulates the simplest math problem no one can solve
 
 ***
 
-##What is the collatz conjecture?
+## What is the collatz conjecture?
 
 1. Start with any integer n > 0. 
 2. If even, divite it by two.
